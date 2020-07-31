@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-25T13:39:23.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="-6EIAZYPUQMmuRS4BObG" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-31T09:08:27.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="aASJoop7UL1YwYoWNBqY" version="13.5.3" type="github">
   <diagram id="vNUCKqDn8_jH4mvtGCjA" name="Page-1">
-    <mxGraphModel dx="1298" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1854" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,9 +40,6 @@
         <mxCell id="cwtm7vFL364gR_QDkmuW-21" value="相对布局" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="205" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cwtm7vFL364gR_QDkmuW-22" value="AutoLayout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="400" y="270" width="86" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="cwtm7vFL364gR_QDkmuW-23" value="线性布局" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="205" width="86" height="40" as="geometry" />
         </mxCell>
@@ -52,14 +49,14 @@
         <mxCell id="cwtm7vFL364gR_QDkmuW-25" value="网格布局" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="900" y="205" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cwtm7vFL364gR_QDkmuW-26" value="布局方式" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="cwtm7vFL364gR_QDkmuW-26" value="布局种类" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="223" y="155" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cwtm7vFL364gR_QDkmuW-27" value="表格布局" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="640" y="205" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cwtm7vFL364gR_QDkmuW-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="660" width="130" height="130" as="geometry" />
+        <mxCell id="2pNWyBDTNfDE7HH_i4GO-1" value="路径布局" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
